@@ -1,2 +1,4 @@
 # PHPUnit_curso
-Curso PHPUnit
+Arquivos do curso de Testes com PHPUnit.
+
+:)
